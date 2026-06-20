@@ -1,2 +1,2 @@
-# git-testing
+# git-tester
 learning process
